@@ -8,6 +8,10 @@ Static responsive website ready for GitHub and Vercel.
 3. Framework preset: Other / Static.
 4. No build command is required.
 
+## Editing media
+- Photos live in `assets/img/`, videos in `assets/video/` (muted, looping, ~2–3 MB each).
+- Gallery items and categories are listed at the top of `script.js` (`GALLERY`). Add a line to add a photo or video.
+
 ## Before final launch
 - Confirm business hours with owner and add them to Contact section.
 - Connect a real quote form endpoint (Formspree, Web3Forms, CRM, etc.). Current demo opens the visitor's email client.
